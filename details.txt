@@ -1,0 +1,1 @@
+All the yaml file is related to voting app which will run by using kubernetes 
